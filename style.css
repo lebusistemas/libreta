@@ -13,10 +13,8 @@ body{
     margin: 50px;
     border-radius: 20px;
     background-color: blueviolet;
-
     box-shadow: 10px 10px white,
-     20px 20px rgba(0, 0, 0, 0.13);
-
+                20px 20px rgba(0, 0, 0, 0.13);
      padding-top: .1px;
 }
 
